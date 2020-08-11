@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "stas admin mern",
+  "mongoUri": "mongodb+srv://admin:123098@cluster0.hoylo.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
